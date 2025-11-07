@@ -80,3 +80,16 @@ Email: bob.smith@example.com | Password: student123
 Email: charlie.brown@example.com | Password: student123
 Email: diana.prince@example.com | Password: student123
 Email: edward.wilson@example.com | Password: student12
+
+########About Me##########
+👋 Hi, I’m Saiful Islam — a passionate Software Engineer, Entrepreneur, and Researcher with over 15 years of experience in software development and technology innovation.
+💻 Skilled in PHP (Laravel, CodeIgniter), Java, JavaScript (React, Node.js), Flutter, and Python.
+🚀 Founder of Bijoy Lab
+ — where we build intelligent, scalable, and user-focused software solutions.
+🤖 Research interests: Artificial Intelligence (AI), Machine Learning (ML), Cybersecurity, and Image Processing.
+📚 I enjoy mentoring young developers, contributing to open-source, and exploring new technologies.
+📫 Reach me at 
+saifuldev2011@gmail.com
+Mobile/whatsapp/Telegram: +8801818650864
+ | 🌐 www.bijoylab.com
+ | 🌐 www.saifuldev.com
